@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 qwertyuiopasdfghj
 fewf
+=======
+>>>>>>> 9b11e0821b483f80cd2bba53da4ed73ea51fbe85
+
+deed
